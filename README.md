@@ -1,2 +1,2 @@
 # europe-ewaste-recycling-analysis
-Springboard Data Science project: Europe-only e-waste recycling analysis (2010–2022) using OWID rates (%) and World Bank population & GDP, with a scaffold to add UN Global E-Waste Monitor tonnage for recovery estimates.
+A data science project for the Springboard Bootcamp analyzing European e-waste recycling from 2010–2022. It builds an analysis-ready panel from OWID recycling rates joined with World Bank population and GDP, with a clean path to incorporate UN Global E-Waste Monitor tonnage for material-recovery modeling.
